@@ -2,7 +2,7 @@
 
 - [Portfolio](https://dt1993.github.io/Responsive-Portfolio/)
 
-Create your portfolio site with the following items:
+Create portfolio site with the following items:
 
    * A navbar
 
